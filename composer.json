@@ -1,0 +1,11 @@
+{
+    "name": "pixelbrackets/lametric-my-data-dataset-provider",
+    "description": "Provide a dataset for the LaMetric »My Data (DIY)« app",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "elementaryframework/water-pipe": "^1.4",
+        "pixelbrackets/html5-mini-template": "^2.0",
+        "ext-json": "*"
+    }
+}
